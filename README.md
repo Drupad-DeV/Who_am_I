@@ -1,4 +1,7 @@
-- 👋 Hi, I’m Drupad Dev 
+<h1> All About Me!! </h1>
+
+
+- 👋 Hi, I’m <b>Drupad Dev P</b> 
 - 👀 I’m interested in 3 things Building, Debuging, Executing
 - 🌱 I’m currently learning python
 - 📫 I'm persuing my B.Tech From Amrita Viswa Vidyapedam
